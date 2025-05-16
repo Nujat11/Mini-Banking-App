@@ -1,6 +1,6 @@
 # Mini-Banking-App
 
-A user-friendly mini banking application built with JavaFX. It offers essential features such as balance inquiries, deposits, withdrawals, fund transfers, currency conversion, savings goal tracking, and transaction history management. The application emphasizes secure PIN-based authentication and provides a clean, interactive interface.
+A user-friendly mini banking application built with JavaFX, this project focuses on simplicity, usability, and security to provide a smooth financial management experience. It integrates essential banking operations within a clean and interactive interface, reinforced by PIN-based authentication for secure access.
 
 Key Features:
 
