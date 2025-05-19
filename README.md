@@ -2,7 +2,7 @@
 
 A user-friendly mini banking application built with JavaFX, this project focuses on simplicity, usability, and security to provide a smooth financial management experience. It integrates essential banking operations within a clean and interactive interface, reinforced by PIN-based authentication for secure access.
 
-Key Features:
+**Key Features:**
 
 1. Balance check with real-time updates
 2. Deposit and withdrawal functionalities
